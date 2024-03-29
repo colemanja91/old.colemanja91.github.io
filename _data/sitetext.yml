@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Helping small business owners and non-profits."
+    text: "Serving small business owners and non-profits."
     section: services
     list:
       - title: "Setup"
@@ -33,8 +33,8 @@ en: &DEFAULT_EN
 
   team:
     title: "About"
-    text: "Who will be helping "
-    subtext: 
+    text:
+    subtext: Over a decade of experience in software engineering, data analytics, and marketing. Excited about helping passionate small business owners.
     section: team
     people:
       - name: "Allie Coleman"
@@ -48,6 +48,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
@@ -21,28 +21,30 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Setup"
+        desc: "Jumping into email marketing is daunting and time consuming. Let us help find and implement the right choice for you."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Operations"
+        desc: "Need a moment to catch your breath? We can help with that next email campaign!"
+        icon: fas fa-envelope-open-text
+      - title: "Maintenance"
+        desc: "We'll give your marketing the TLC it needs to stay effective."
+        icon: fas fa-wrench
 
   team:
-    title: "Meet Me"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "About"
+    text: "Who will be helping "
+    subtext: 
     section: team
     people:
       - name: "Allie Coleman"
-        role: "Lead Designer"
+        role: "Lead"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://linkedin.com/in/allie-coleman-eng
             icon: fab fa-linkedin-in
+          - url: https://github.com/colemanja91
+            icon: fab fa-github
 
   contact:
     title: "Contact Us"

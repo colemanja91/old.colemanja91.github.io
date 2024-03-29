@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome!
-    text: It's Nice To Meet You
+    title: Hello There!
+    text: Let's talk email.
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Helping small business owners and non-profits."
     section: services
     list:
       - title: "Setup"
@@ -53,8 +53,10 @@ en: &DEFAULT_EN
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
-    message: "Message*"
-    message-validation: "Tell us how we can help."
+    phone: "Phone Number*"
+    phone-validation: "Please enter your phone number."
+    message: "Tell us how we can help."
+    message-validation: "Must include a message."
     subject: "Contact Form Submission"
     submit: "Send Message"
 

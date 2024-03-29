@@ -21,9 +21,9 @@ title      : Kaizo Marketing
 email      : kaizo.marketing@pm.me #this is also the email contact forms will go to
 description: "Homepage for Kaizo Marketing"
 author     : Allie Coleman
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:     #optional, defaults to site title
+  path: assets\img\logo.png
+  height: 52
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 

@@ -1,3 +1,8 @@
 ---
-layout: home
+layout: default
 ---
+{% include navheader.html %}
+
+{% include services.html %}
+{% include team.html %}
+{% include contact.html %}
